@@ -2,7 +2,7 @@
 I'm Da Yeon(Zoey), a junior student majoring in <b>Statistics📊</b> at Korea University. Hope you enjoy reading my reposits.<br>
 Some might become inspirations to you!💕 If you have any questions regarding my projects, feel free to ask🙃🙂<br>
 <br>
-<b>Major Languages:</b> PLSQL, R, Python
+<b>Major Languages:</b> MySQL, PLSQL, R, Python
 <br>
 <br>
 <h3>[ACTIVITIES]</h3>
