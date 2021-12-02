@@ -37,7 +37,7 @@ If you have any questions regarding reposits, feel free to ask ! 🗣️</h6>
 
 
 <h4 align="center"> Currently working on </h4>
-<p align="center">
+<div align="center">
 
 name | about
 ---- | ----
@@ -47,4 +47,4 @@ etc | **_kubig_** data science society president
 etc | naver ai boostcamp 
 etc | vizable data visualization
 
-</p>
+</div>
