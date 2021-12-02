@@ -35,3 +35,16 @@ If you have any questions regarding reposits, feel free to ask ! 🗣️</h6>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
+
+<h4 align="center"> Currently working on </h4>
+<p align="center">
+
+name | about
+---- | ----
+nlp | numerical reasoning through solver/reasoner
+project | korea univ. smart campus
+etc | **_kubig_** data science society president
+etc | naver ai boostcamp 
+etc | vizable data visualization
+
+</p>
