@@ -44,7 +44,6 @@ name | about
 nlp | numerical reasoning through solver/reasoner
 project | korea univ. smart campus
 etc | **_kubig_** data science society president
-etc | naver ai boostcamp 
 etc | vizable data visualization
 
 </div>
