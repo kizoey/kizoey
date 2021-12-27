@@ -42,9 +42,7 @@ If you have any questions regarding reposits, feel free to ask ! 🗣️</h6>
 name | about
 ---- | ----
 nlp | korea univ. nlp undergrad researcher
-nlp | kaist nlp undergrad researcher
 project | enterprise trend data visualization
 etc | **_kubig_** data science society president
-etc | vizable data visualization
 
 </div>
