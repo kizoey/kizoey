@@ -39,10 +39,4 @@ If you have any questions regarding reposits, feel free to ask ! 🗣️</h6>
 <h4 align="center"> Currently working on </h4>
 <div align="center">
 
-name | about
----- | ----
-nlp | korea univ. nlp undergrad researcher
-project | enterprise trend data visualization
-etc | **_kubig_** data science society president
-
 </div>
