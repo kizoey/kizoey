@@ -20,7 +20,6 @@ If you have any questions regarding reposits, feel free to ask ! 🗣️</h6>
 
 <h4 align="center"> 💞 Follow Me 💞 </h4>
 <p align="center">
-  <a href="https://blog.naver.com/zoeyki"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/zoeyki"/></a>&nbsp
   <a href="mailto:dayeonki@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dayeonki@gmail.com"/></a>
 
 </p>
